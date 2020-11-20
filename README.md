@@ -1,5 +1,9 @@
-# AliasTable
-Show alias in an effective way. 
+AliasTable [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+[![Active](http://img.shields.io/badge/Status-Active-green.svg)](https://tterb.github.io)
+[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
+===
+
+Show alias in an effective way.
 
 ## Installation
 ```zsh
