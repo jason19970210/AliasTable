@@ -1,5 +1,5 @@
 # AliasTable
-A table which shows the `alias` from shell run command file (rc) 
+Show alias in an effective way. 
 
 ## Installation
 ```zsh
@@ -18,13 +18,16 @@ export PATH=$HOME/.zsh/AliasTable:$PATH
 
 ## Usage
 ```
-$ alias.sh [ -l | -h | -v | -i ]
+$ alias.sh -h
 
-    -l, --list              Full information of alias
-    -h, --help              Show this help
-    -v, --version           Show script version
-    -i, --info              Show script information
-    
+Show alias in an effective way.
+Usage: alias.sh [ -l | -h | -v | -i ]
+
+   -l, --list 11             Full information of alias
+   -h, --help              Show this help
+   -v, --version           Show script version
+   -i, --info              Show script information
+
 ```
 
 ## Uninstallation
