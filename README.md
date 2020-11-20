@@ -28,7 +28,7 @@ $ alias.sh -h
 Show alias in an effective way.
 Usage: alias.sh [ -l | -h | -v | -i ]
 
-   -l, --list 11             Full information of alias
+   -l, --list              Full information of alias
    -h, --help              Show this help
    -v, --version           Show script version
    -i, --info              Show script information
