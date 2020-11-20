@@ -5,7 +5,8 @@ date="2020/11/20"
 author="jason19970210"
 
 help() {
-    echo "Usage: [ -l | -h | -v | -i ]" >&2
+    echo "Show alias in an effective way."
+    echo "Usage: alias.sh [ -l | -h | -v | -i ]" >&2
     echo
     echo "   -l, --list              Full information of alias"
     echo "   -h, --help              Show this help"
