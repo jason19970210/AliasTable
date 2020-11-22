@@ -1,7 +1,7 @@
 AliasTable [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
-[![Active](http://img.shields.io/badge/Status-Active-green.svg)](https://tterb.github.io)
-[![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://GitHub.com/Naereen/StrapDown.js/graphs/commit-activity)
-[![Version](https://img.shields.io/badge/version-1.0-green.svg)](https://shields.io/)
+![Active](http://img.shields.io/badge/Status-Active-green.svg)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)
+![Version](https://img.shields.io/badge/version-1.0-green.svg)
 ===
 
 Show alias in an effective way.
